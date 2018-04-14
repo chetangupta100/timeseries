@@ -10,5 +10,6 @@ Program to read file from input which contains timestamp and value. The program 
 If the next epoch value is more than the start epoch of the  current window then the metrics of current window are flushed out to file and the metrics are reset.
 
 Input : data/files/data.txt
+
 Ouput : data/files/input.txt
  
