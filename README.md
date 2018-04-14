@@ -11,5 +11,5 @@ If the next epoch value is more than the start epoch of the  current window then
 
 Input : data/files/data.txt
 
-Ouput : data/files/input.txt
+Ouput : data/files/output.txt
  
